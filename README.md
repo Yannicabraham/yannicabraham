@@ -20,6 +20,7 @@ I'm a certified Data Analyst with a strong interest in bridging data analysis an
 
 🎓 Data Analyst Certificate – Experience Design Institut  
 🏟️ Foundations of Sports Analytics: Data, Representation, and Models in Sports - University of Michigan/Coursera
+
 📊 Python • Pandas • NumPy • Seaborn • Jupyter • Git & GitHub • SQL • Power BI
 
 ## 📫 How to reach me
