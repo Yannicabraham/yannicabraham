@@ -24,5 +24,5 @@ I'm a certified Data Analyst with a strong interest in bridging data analysis an
 📊 Python • Pandas • NumPy • Seaborn • Jupyter • Git & GitHub • SQL • Power BI
 
 ## 📫 How to reach me
-[LinkedIn](www.linkedin.com/in/yannicabraham)
+[LinkedIn](www.linkedin.com/in/yannicabraham) #
 [Mail](yannic_@live.de)
