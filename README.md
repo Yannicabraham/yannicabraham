@@ -3,11 +3,11 @@
 I'm a certified Data Analyst with a strong interest in bridging data analysis and professional sports.
 
 ## 📌 Featured Projects
-- 🌏 [World Happiness Analysis](https://github.com/yourusername/world-happiness-analysis)
-  Searching for predictors of happiness scores. What makes a happy country?
+- 🌏 [World Happiness Analysis](https://github.com/yourusername/world-happiness-analysis)  
+  Searching for predictors of happiness scores. What makes a happy country?  
   Where does my future home rank...? 🧐
 
-- 🏁 [Formula 1 - 2022 Analysis](https://github.com/yourusername/formula1-driver-performance)
+- 🏁 [Formula 1 - 2022 Analysis](https://github.com/yourusername/formula1-driver-performance)  
   Analyzing driver and team patterns during the 2022 season.
 
 - 🏟️ [FIFA 21 Player Analysis](https://github.com/yourusername/fifa21-player-analysis)  
