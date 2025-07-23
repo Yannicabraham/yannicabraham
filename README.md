@@ -7,6 +7,9 @@ I'm a certified Data Analyst with a strong interest in bridging data analysis an
   Searching for predictors of happiness scores. What makes a happy country?  
   Where does my future home rank...? 🧐
 
+- 🎮 [Video Games Sales Analysis](https://github.com/yourusername/video-game-sales-analysis)
+  This project focused on global video game sales, focusing on publishers, different regions and genres. 
+
 - 🏁 [Formula 1 - 2022 Analysis](https://github.com/yourusername/formula1-driver-performance)  
   Analyzing driver and team patterns during the 2022 season.
 
